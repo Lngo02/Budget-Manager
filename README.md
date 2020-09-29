@@ -27,4 +27,4 @@ Planning the budget is a lasting activity: enable the program to keep the histor
 Teach your program to perform a concise analysis (sorting) of spendings.
 
 ## Results will look like
-![](demonstration.mp4)
+![Results Demo](demonstration.gif)
